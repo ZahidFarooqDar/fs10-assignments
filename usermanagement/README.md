@@ -1,5 +1,5 @@
 # USER MANAGEMENT SYSTEM with VALIDATIONS
-## 🏠  [Homepage](https://github.com/ZahidFarooqDar/Class-test/tree/main/AssignmentValidation/usermanagement)
+## 🏠  [Homepage](https://github.com/ZahidFarooqDar/fs10-assignments/tree/main/usermanagement)
 ## Prerequisities
 * java 17
 * Spring Boot
