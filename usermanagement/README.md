@@ -8,16 +8,16 @@
 
 * 🙍‍♂️ Zahid Farooq Dar
  * LinkedIn: [@Zahid Farooq](https://www.linkedin.com/in/zahid-farooq-dar/)
-  * Github: [@ZahidFarooqDar](https://github.com/ZahidFarooqDar)
+ * Github: [@ZahidFarooqDar](https://github.com/ZahidFarooqDar)
 
 ## DATA FLOW
-Application is based on MVC architecture where we have
+* Application is based on MVC architecture where we have
 ---
 ### MODEL
-It contains model of USER where we have entities of USER class
+* It contains model of USER where we have entities of USER class
 ---
 ### CONTROLLER
-This package contains different API end points 
+* This package contains different API end points 
 * [GET all USERS](http://localhost:8080/User/Management/GetAll)
 * [GET USER by ID](http://localhost:8080/api/v1/User/Management/getById/UserId/{userId})
 * [POST/ADD USER](http://localhost:8080/User/Management/addUser)
@@ -26,18 +26,18 @@ This package contains different API end points
 ---
 
 ### SERVICE
-It contains the business logic for the API's and @Autowired IRepository
+* It contains the business logic for the API's and @Autowired IRepository
 ---
 ### DAO
-it contains the interface which extends JPARepository
-And which contains predefined logic for all basic CRUD Operations
+* it contains the interface which extends JPARepository
+* And which contains predefined logic for all basic CRUD Operations
 ---
 ### DATA BASE DESIGN
-Here we are using in-memory database known as H2 database
+* Here we are using in-memory database known as H2 database
 ---
 
 ## PROJECT SUMMARY
-The application is designed to perform very basic CRUD operations on User Model where we have different entities and on them we have used some basic validations based on regex pattern
+* The application is designed to perform very basic CRUD operations on User Model where we have different entities and on them we have used some basic validations based on regex pattern
 
 # 
 
