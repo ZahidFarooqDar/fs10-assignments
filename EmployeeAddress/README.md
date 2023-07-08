@@ -38,8 +38,7 @@ README file for Employee address project
 ---
 
 ## PROJECT SUMMARY
-* The application is designed to perform very basic CRUD operations on Employee And Address, another is @OneToOne mapping which is
-* attained by using this project
+* The application is designed to perform very basic CRUD operations on Employee And Address, another is @OneToOne mapping which is attained by using this project
 ---
 ## 📝 License
 
